@@ -114,8 +114,7 @@ export function ChallengeProvider( {
             startNewChallenge,
             activeChallenge,
             completeChallenge,
-            closeLevelupModal
-            
+            closeLevelupModal            
             }}>
 
             {children}
